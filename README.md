@@ -8,7 +8,7 @@ nd893 Deep Reinforcement Learning - Project 2 - Continuous Control
 
 ## Project Detail
 
-Work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment and solve it using RL/DDPG approach for continuous actions/controls.
+Work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment and solve it using RL/DDPG approach for continuous actions/controls
 
 ![Trained Agent][image1]
 
@@ -22,7 +22,9 @@ The task is episodic, and in order to solve the environment,  the agent must get
 
 ## Coding
 
-I wrote this code on the online workspace @ udacity. Still try to figure out how to build this environment on my machines.
+I wrote this code on the online workspace @ udacity. 
+
+Still try to figure out how to build this environment on my machines.
 
 ## Installation
 (this is referred to online resource, not fully tested yet)
@@ -39,6 +41,7 @@ The environment can be downloaded from one of the links below for all operating 
 Run `Continuous_Control.ipynb` for step-by-step details.
 
 `model.py` contains neural network classes for Actor and Critic functional approximatior.
+
 `ddpg_agent.py` is the implementation of a DDPG agent [paper](https://arxiv.org/pdf/1509.02971.pdf).
 
 ## Report
