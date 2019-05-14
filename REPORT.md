@@ -20,7 +20,10 @@ Parameters used in DDPG algorithm:
 ## Result
 
 ```
-
+Episode 100	Average Score: 3.55
+Episode 200	Average Score: 23.62
+Episode 244	Average Score: 30.01
+Environment solved in 244 episodes!	Average Score: 30.01
 ```
 
 ## Future Works
