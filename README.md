@@ -6,7 +6,7 @@
 # udacity nd893 project 2
 nd893 Deep Reinforcement Learning - Project 2 - Continuous Control
 
-## Project details
+## Project Detail
 
 Work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment and solve it using RL/DDPG approach for continuous actions/controls.
 
