@@ -6,7 +6,9 @@ This project implements an DDPG agent [paper](https://arxiv.org/pdf/1509.02971.p
 
 NN info:
 
-I use the DDPG example found online and use it as is.
+Two identical neural network configurations for both Actor and Critic.
+It contains 2 fully connected hidden layers (FC) followed by ReLU none-linear activation layers.
+Also add batch normailzation during training.
 
 Parameters used in DDPG algorithm:
 
